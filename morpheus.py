@@ -16,7 +16,7 @@ import win32gui
 import ctypes
 
 
-AppName = "░▒▓█[ Morpheus v0.1 ]█▓▒░"
+AppName = "░▒▓█[ Morpheus v0.0.1 ]█▓▒░"
 WindowUtils = cef.WindowUtils()
 
 
